@@ -12,16 +12,6 @@ function myFunction() {
     }
 }
 
-
-// if(document.getElementsByClassName("input").value?.length!=0){
-//     document.getElementById("submitbtn").addEventListener('click',function submit(){
-//     alert("Your message is sent successfully");
-//     }
-//     );
-// }
-
-
-// Theme Change
 let theme = localStorage.getItem('theme')
 
 let themeDots = document.getElementsByClassName('theme-dot')
